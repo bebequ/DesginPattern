@@ -1,4 +1,6 @@
 # ***Design Patterns For C++ ***
+늦깍이 공돌이가 배우면서 쓰는 디자인패턴 저장소.
+OOP 기법을 C++ 로 테스트하고 StarUML로 다이어그램을 표현하며 doxygen으로 문서를 남긴다. 물론 git로 문서 및 코드를 관리한다.
 
 ## 1. Creational Patterns
 
